@@ -1,2 +1,2 @@
-# DD.ex-crash-update-multiplier-
-Download to update Dynamic Dyno
+You need to download the crash fix named dd-download or just copy and paste into term
+
